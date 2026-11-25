@@ -1,3 +1,6 @@
+# JetBrains local files
+.idea/
+
 # Prerequisites
 *.d
 
